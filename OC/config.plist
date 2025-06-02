@@ -507,7 +507,7 @@
                     <key>Comment</key>
                     <string>V1.3.5 | By RapidEFI-Pro</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/SMCSuperIO</string>
                     <key>MaxKernel</key>
@@ -579,7 +579,7 @@
                     <key>Comment</key>
                     <string>V341.0.2 | By RapidEFI-Pro</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/CtlnaAHCIPort</string>
                     <key>MaxKernel</key>
@@ -597,7 +597,7 @@
                     <key>Comment</key>
                     <string>V1.1.2 | By RapidEFI-Pro</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/NVMeFix</string>
                     <key>MaxKernel</key>
@@ -633,7 +633,7 @@
                     <key>Comment</key>
                     <string>V0.9.2</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -651,7 +651,7 @@
                     <key>Comment</key>
                     <string>V1.5.2 | By RapidEFI-Pro</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/HibernationFixup</string>
                     <key>MaxKernel</key>
@@ -669,7 +669,7 @@
                     <key>Comment</key>
                     <string>V9.2 | By RapidEFI-Pro</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/HoRNDIS</string>
                     <key>MaxKernel</key>
@@ -759,7 +759,7 @@
                     <key>Comment</key>
                     <string>V1.0.1</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/USBToolBox</string>
                     <key>MaxKernel</key>
@@ -777,7 +777,7 @@
                     <key>Comment</key>
                     <string>V1.1</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -795,7 +795,7 @@
                     <key>Comment</key>
                     <string>V0.8.0 | By RapidEFI-Pro</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/USBInjectAll</string>
                     <key>MaxKernel</key>
@@ -980,7 +980,7 @@
                 <key>ThirdPartyDrives</key>
                 <false/>
                 <key>XhciPortLimit</key>
-                <false/>
+                <true/>
             </dict>
             <key>Scheme</key>
             <dict>

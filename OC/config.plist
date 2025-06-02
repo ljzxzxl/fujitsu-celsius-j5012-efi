@@ -64,6 +64,22 @@
                     <key>Path</key>
                     <string>SSDT-USB-Reset.aml</string>
                 </dict>
+                <dict>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>SSDT-D-NVME.aml</string>
+                </dict>
+                <dict>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>SSDT-D-NVME-2.aml</string>
+                </dict>
             </array>
             <key>Delete</key>
             <array/>

@@ -64,6 +64,14 @@
                     <key>Path</key>
                     <string>SSDT-USB-Reset.aml</string>
                 </dict>
+                <dict>
+                    <key>Comment</key>
+                    <string></string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>SSDT-D-NVME.aml</string>
+                </dict>
             </array>
             <key>Delete</key>
             <array/>
@@ -651,7 +659,7 @@
                     <key>Comment</key>
                     <string>V1.5.2 | By RapidEFI-Pro</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/HibernationFixup</string>
                     <key>MaxKernel</key>
@@ -669,7 +677,7 @@
                     <key>Comment</key>
                     <string>V9.2 | By RapidEFI-Pro</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/HoRNDIS</string>
                     <key>MaxKernel</key>

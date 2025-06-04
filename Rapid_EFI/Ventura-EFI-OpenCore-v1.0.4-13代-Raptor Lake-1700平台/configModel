@@ -158,7 +158,7 @@
   },
   "deviceProperties": {
     "addList": [],
-    "deleteList": null
+    "deleteList": []
   },
   "kernel": {
     "kernelKexts": [
@@ -236,10 +236,10 @@
         0
       ],
       "Cpuid1Mask": [
-        255,
-        255,
-        255,
-        255,
+        85,
+        6,
+        10,
+        0,
         0,
         0,
         0,

@@ -481,7 +481,7 @@
         <key>Cpuid1Data</key>
         <data>VQYKAAAAAAAAAAAAAAAAAA==</data>
         <key>Cpuid1Mask</key>
-        <data>/////wAAAAAAAAAAAAAAAA==</data>
+        <data>VQYKAAAAAAAAAAAAAAAAAA==</data>
         <key>DummyPowerManagement</key>
         <false/>
         <key>MaxKernel</key>

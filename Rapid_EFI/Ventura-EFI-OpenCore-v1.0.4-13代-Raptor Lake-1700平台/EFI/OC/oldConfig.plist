@@ -645,7 +645,7 @@
                 <key>Cpuid1Mask</key>
                 <data>VQYKAAAAAAAAAAAAAAAAAA==</data>
                 <key>DummyPowerManagement</key>
-                <true/>
+                <false/>
                 <key>MaxKernel</key>
                 <string></string>
                 <key>MinKernel</key>
@@ -754,9 +754,9 @@
                 <key>AppleDebug</key>
                 <false/>
                 <key>ApplePanic</key>
-                <false/>
+                <true/>
                 <key>DisableWatchDog</key>
-                <false/>
+                <true/>
                 <key>DisplayDelay</key>
                 <integer>0</integer>
                 <key>DisplayLevel</key>
@@ -886,6 +886,8 @@
                 <dict>
                     <key>DefaultBackgroundColor</key>
                     <data>AAAAAA==</data>
+                    <key>UIScale</key>
+                    <data>Ag==</data>
                 </dict>
                 <key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
                 <dict>

@@ -235,7 +235,21 @@
         <key>DeviceProperties</key>
         <dict>
             <key>Add</key>
-            <dict/>
+            <dict>
+                <key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
+                <dict>
+                    <key>AAPL,slot-name</key>
+                    <string>Internal@0,1,0/0,0</string>
+                    <key>device-id</key>
+                    <data>/2cAAA==</data>
+                    <key>device_type</key>
+                    <string>VGA compatible controller</string>
+                    <key>model</key>
+                    <string>Radeon Pro 550</string>
+                    <key>no-gfx-spoof</key>
+                    <data>AQAAAA==</data>
+                </dict>
+            </dict>
             <key>Delete</key>
             <dict/>
         </dict>

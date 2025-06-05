@@ -49,6 +49,10 @@
       "comment": "添加debug=0x100引导参数,禁用macOS的看门狗功能,该功能有助于防止在内核崩溃时自动重启,便于获取一些有用的信息，并通过这些线索解决问题(首次调试引导时,强烈建议勾选)"
     },
     {
+      "arg": "-wegnoigpu",
+      "comment": "禁用Intel核显(核显无法驱动，也不支持加速硬解时，建议勾选)"
+    },
+    {
       "arg": "-radcodec",
       "comment": "修复官方不支持的AMD显卡(经过仿冒处理)使其支持VDA硬件视频编码"
     },
@@ -384,7 +388,7 @@
           {
             "key": "boot-args",
             "dataType": "string",
-            "value": "-v keepsyms=1 debug=0x100 -radcodec agdpmod=pikera brcmfx-country=HK alcid=69",
+            "value": "-v keepsyms=1 debug=0x100 -wegnoigpu -radcodec agdpmod=pikera brcmfx-country=HK alcid=69",
             "comment": ""
           },
           {

@@ -909,7 +909,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 -wegnoigpu -radcodec agdpmod=pikera brcmfx-country=HK alcid=69</string>
+				<string>-v keepsyms=1 debug=0x100 brcmfx-country=HK -radcodec alcid=69 -wegnoigpu</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>

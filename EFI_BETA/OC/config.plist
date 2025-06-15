@@ -311,7 +311,7 @@
 			</dict>
 			<dict>
 				<key>Base</key>
-				<string>\_SB.PCI0.LPCB.HPET</string>
+				<string>\_SB.PC00.HDAS</string>
 				<key>BaseSkip</key>
 				<integer>0</integer>
 				<key>Comment</key>
@@ -319,7 +319,7 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>X0NSUw==</data>
 				<key>Limit</key>
@@ -1143,7 +1143,7 @@
 				<key>bluetoothInternalControllerInfo</key>
 				<data>AAAAAAAAAAAAAAAAAAA=</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 -radcodec alcid=99 -wegnoigpu</string>
+				<string>-v keepsyms=1 debug=0x100 -radcodec alcid=69 -wegnoigpu</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>

@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#RapidEFI-Pro-v4.5.0</key>
-	<string>An excellent one-click EFI configuration tool based on OpenCore</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -1380,7 +1378,7 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Comment</key>
-				<string>By RapidEFI-Pro</string>
+				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>LoadEarly</key>
@@ -1392,7 +1390,7 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Comment</key>
-				<string>By RapidEFI-Pro</string>
+				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>LoadEarly</key>
@@ -1404,7 +1402,7 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Comment</key>
-				<string>By RapidEFI-Pro</string>
+				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>LoadEarly</key>
@@ -1416,7 +1414,7 @@
 				<key>Arguments</key>
 				<string></string>
 				<key>Comment</key>
-				<string>By RapidEFI-Pro</string>
+				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>LoadEarly</key>

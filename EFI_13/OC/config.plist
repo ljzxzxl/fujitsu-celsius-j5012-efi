@@ -1330,7 +1330,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>LoadEarly</key>
-				<false/>
+				<true/>
 				<key>Path</key>
 				<string>HfsPlus.efi</string>
 			</dict>
@@ -1483,7 +1483,7 @@
 			<key>EnableVmx</key>
 			<false/>
 			<key>ExitBootServicesDelay</key>
-			<integer>0</integer>
+			<integer>5000</integer>
 			<key>ForceOcWriteFlash</key>
 			<false/>
 			<key>ForgeUefiSupport</key>

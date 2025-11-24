@@ -1472,8 +1472,6 @@
 		<dict>
 			<key>ActivateHpetSupport</key>
 			<false/>
-			<key>ThirdPartyDrives</key>
-			<true/>
 			<key>DisableSecurityPolicy</key>
 			<false/>
 			<key>EnableVectorAcceleration</key>

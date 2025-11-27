@@ -1226,7 +1226,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 brcmfx-country=HK ipc_control_port_options=0 -amfipassbeta -radcodec alcid=69 -wegnoigpu ahciportlimit=0 hibernatemode=0</string>
+				<string>-v keepsyms=1 debug=0x100 brcmfx-country=HK ipc_control_port_options=0 -amfipassbeta -radcodec alcid=69 -wegnoigpu ahciportlimit=0 hibernatemode=0 -applekeystore=disabled</string>
 				<key>csr-active-config</key>
 				<data>/w8AAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1569,7 +1569,7 @@
 			<key>EnableVmx</key>
 			<false/>
 			<key>ExitBootServicesDelay</key>
-			<integer>5000</integer>
+			<integer>10000</integer>
 			<key>ForceOcWriteFlash</key>
 			<false/>
 			<key>ForgeUefiSupport</key>
@@ -1579,7 +1579,7 @@
 			<key>ReleaseUsbOwnership</key>
 			<true/>
 			<key>ReloadOptionRoms</key>
-			<false/>
+			<true/>
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>ResizeGpuBars</key>

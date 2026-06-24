@@ -228,6 +228,7 @@
 - **网络问题**：
   - 确认IntelMausi.kext和AirportBrcmFixup.kext是否正确加载
   - 尝试重置网络设置
+  - **DW1820A 无线网卡无 en1 接口 / Wi-Fi 被强制关闭**：在 boot-args 中追加 `-brcmfxbeta`（新版 macOS 下 AirportBrcmFixup 默认不介入），详见 `EFI_15/wifi-dw1820a-fix.md`
 - **睡眠唤醒问题**：
   - 检查HibernationFixup.kext是否正确配置
   - 尝试禁用Power Nap功能

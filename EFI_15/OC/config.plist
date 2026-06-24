@@ -1350,7 +1350,7 @@
 				AAAAAAAAAAAAAAAAAAA=
 				</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 brcmfx-country=HK ipc_control_port_options=0 -amfipassbeta -radcodec alcid=69 -wegnoigpu agdpmod=pikera hibernatemode=0 -v msgbuf=1048576 -nvmefoff brcmfx-driver=2 brcmfx-delay=15000 brcmfx-aspm=0 -brcmfxdbg</string>
+				<string>keepsyms=1 debug=0x100 brcmfx-country=HK ipc_control_port_options=0 -amfipassbeta -radcodec alcid=69 -wegnoigpu agdpmod=pikera hibernatemode=0 -v msgbuf=1048576 -nvmefoff brcmfx-driver=2 brcmfx-delay=15000 brcmfx-aspm=0 -brcmfxdbg -brcmfxbeta</string>
 				<key>csr-active-config</key>
 				<data>
 				/w8AAA==
